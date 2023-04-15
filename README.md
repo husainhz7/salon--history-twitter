@@ -1,10 +1,12 @@
-# Salon - GPT-driven Tweets of Historical Figures
+# Salon - GPT-generated Tweets of Historical Figures
 
 Salon is an AI-powered project that generates tweets of renowned historical figures like Aristotle, Einstein, and Gandhi using GPT models. By leveraging Langchain and embeddings of speeches and books authored by these figures, Salon generates tweets inspired by news articles of the day.
 
+Check it out here: https://salon-history-twitter.onrender.com
+
 ## Key Features
 
-* GPT-driven tweet generation for historical figures
+* GPT-generated tweet generation for historical figures
 * Trained on speeches and books of famous personalities
 * Tweets generated based on news articles
 * Uses Langchain, Emdedding lookup
